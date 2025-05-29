@@ -79,7 +79,7 @@ In this task, I built a **Decision Tree Classifier** to predict whether a custom
 ## 🔗 Project Links
 
 - 📓 [Google Colab Notebook](https://colab.research.google.com/drive/1K0e8pLNscHsNqsSHPOKehOdl3D4rR_SD#scrollTo=-1I3lU_Sbf_F)  
-- 💻 [GitHub Repository](https://lnkd.in/eScA8Bdp)
+- 💻 [GitHub Repository](https://github.com/akanksha21-maker)
 
 ---
 
